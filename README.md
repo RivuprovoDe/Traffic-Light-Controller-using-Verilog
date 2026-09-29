@@ -440,10 +440,3 @@ additional step for development and choosing the best road for the emergency and
 8) https://www.fpga4student.com/2016/11/verilog-code-for-traffic-light-system.html 
 
 9) https://www.slideshare.net/UtkarshDe/four-way-traffic-light-conrol-using-verilog 
-
-
-## Author
-
-- [A Devipriya](https://github.com/Devipriya1921), Bachelor of Engineering in Electronics and Communication Engineering, Cambridge Institute of Technology, Bangalore
-
-    
