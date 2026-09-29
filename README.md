@@ -16,7 +16,6 @@
 6. [Result](#result)
 7. [Future work](#future-work)
 8. [References](#references)
-9. [Author](#author)
 
 
 ## Introduction 
